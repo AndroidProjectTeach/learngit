@@ -7,5 +7,5 @@ bob完成了功能一！
 学习快速合并！
 取消快速合并！
 bug 707完成了！
-Bob is developing part 3 ...
+
 
